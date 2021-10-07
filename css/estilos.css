@@ -166,14 +166,17 @@ html {
     justify-content: space-around;
     align-items: center;
 }
-.foot p {
-    font-size: 1.6rem;
+.foot__copy {
+    font-size: 2rem;
     color: #fff;
 }
 .sociales a {
-    font-size: 1.6rem;
+    font-size: 2rem;
     color: #fff;
     text-decoration: none;
+}
+.foot__imagen {
+    width: 36px;
 }
 @media (max-width: 845px) {
     .icon-dog {
